@@ -1,7 +1,7 @@
 /* styles.css */
 
 .odd {
-    background-color: pink;
+    background-color: rgb(255, 192, 203);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
@@ -10,12 +10,11 @@
 }
 
 #id2 {
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
 }
 
 #id4 {
-    background-color: lightgreen;
-    font-size: 24px;
+    background-color: hsl(120, 73%, 75%);
     font-weight: bold;
 }
